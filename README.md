@@ -13,7 +13,7 @@ funcionário do Pet Shop controlar tanto a agenda de procedimentos de banho, tos
 e consultas veterinárias, bem como gerenciar os dados dos pets e de seus donos.
 
 ## Tecnologias utilizadas
-![technology Java](https://img.shields.io/badge/Technology-Java-red.svg?style=flat-square)
+![technology Java](https://img.shields.io/badge/Language-Java-red.svg?style=flat-square)
 ![technology Java](https://img.shields.io/badge/Frontend-javaFX-blue.svg?style=flat-square)
 ![technology Java](https://img.shields.io/badge/ORM-Hibernate-olive.svg?style=flat-square)
 ![technology Java](https://img.shields.io/badge/Database-MySQL-orange.svg?style=flat-square)
